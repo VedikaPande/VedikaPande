@@ -1,3 +1,5 @@
+[![An image of @vedikapande's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedikapande)](https://holopin.io/@vedikapande)
+
 <h1 align="center">Hi 👋, I'm Vedika Pande</h1>
 <h3 align="center">Building beautiful interfaces backed by powerful systems</h3>
 
