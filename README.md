@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://vedika-pande.web.app](https://vedika-pande.web.app)
+- 
 
 - 💬 Ask me about **MERN,Python,C/C++ and more**
 
